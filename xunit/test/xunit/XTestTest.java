@@ -7,6 +7,7 @@ import org.junit.Test;
 
 import xunit.annotations.XTest;
 import xunit.readers.AnnotationReader;
+import xunit.resultados.Resultado;
 import fixture.MiTestFeliz;
 import fixture.MiTestInfeliz;
 import fixture.TestConResultadosMezclados;

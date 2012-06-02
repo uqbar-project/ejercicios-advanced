@@ -1,12 +1,10 @@
-package xunit;
+package xunit.resultados;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import xunit.resultados.ResultaditoExcepcion;
-import xunit.resultados.ResultaditoFallo;
-import xunit.resultados.ResultaditoPaso;
+import xunit.Reporter;
 
 public class Resultado implements Reporter {
 

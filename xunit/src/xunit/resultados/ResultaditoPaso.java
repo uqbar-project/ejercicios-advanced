@@ -1,6 +1,5 @@
 package xunit.resultados;
 
-import xunit.Resultadito;
 
 public class ResultaditoPaso extends Resultadito {
 
